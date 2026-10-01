@@ -126,6 +126,20 @@ Write your own main query (one row per record) and detail query (filtered with `
 3. Run `drop package ign_config_detail;`.
 4. Drop the sample with `drop table dv_customers purge;`.
 
+## Support
+
+If this plugin saves you time, donations are welcome:
+
+**ETH on the Ethereum network (ERC20) only**
+
+```
+0xc58187E1b7CE870279CadCB44BF896dCa1f84093
+```
+
+<img src="eth-donation-qr.png" alt="QR code for the ETH donation address" width="200">
+
+Please don't send other networks (Base, Arbitrum, BSC, Polygon) or other tokens to this address; they may be lost.
+
 ## License
 
 MIT, see `LICENSE`.
