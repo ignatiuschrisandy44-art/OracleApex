@@ -11,11 +11,11 @@
   "commercial" : "No",
   "author" : {
     "name" : "ignatius",
-    "url" : "https://github.com/ignatiuschrisandy44-art"
+    "url" : "https://github.com/ignatiuschrisandy44-art/OracleApex"
   },
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/ignatiuschrisandy44-art/apex-plugin-ign-config-detail.git"
+    "url" : "https://github.com/ignatiuschrisandy44-art/OracleApex"
   },
   "oracle" : {
     "versions" : ["19.0.0", "21.0.0", "23.0.0", "26.0.0"],
@@ -25,7 +25,7 @@
         "internalName" : "COM.IGN.CONFIG_DETAIL",
         "type" : "region",
         "demo" : "",
-        "previewImage" : "https://raw.githubusercontent.com/ignatiuschrisandy44-art/apex-plugin-ign-config-detail/main/preview.png"
+        "previewImage" : "https://github.com/ignatiuschrisandy44-art/OracleApex/blob/main/Region.gif"
       }
     }
   }
