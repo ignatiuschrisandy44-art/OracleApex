@@ -3,9 +3,9 @@
   "version" : "1.0",
   "description" : "Region plugin that shows records as expandable cards and turns each card into an editable form (text, number, text area, date picker, select list or view only), configured entirely with SQL: a main query, a detail query and a LOV query. Required, shown, read-only, cascading lists and server recalculation are dynamic conditions written as query columns, and one generic PL/SQL call saves the changes to any table.",
   "keywords" : ["region", "cards", "form", "editable", "detail", "master-detail", "configurable", "lov", "dynamic"],
-  "homepage" : "https://github.com/ignatiuschrisandy44-art/apex-plugin-ign-config-detail",
+  "homepage" : "htps://github.com/ignatiuschrisandy44-art/OracleApex",
   "bugs" : {
-    "url" : "https://github.com/ignatiuschrisandy44-art/apex-plugin-ign-config-detail/issues"
+    "url" : "htps://github.com/ignatiuschrisandy44-art/OracleApex/issues"
   },
   "license" : "MIT",
   "commercial" : "Yes",
