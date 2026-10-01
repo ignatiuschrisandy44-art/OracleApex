@@ -11,11 +11,12 @@
   "commercial" : "Yes",
   "author" : {
     "name" : "ignatius",
-    "url" : "https://github.com/ignatiuschrisandy44-art/OracleApex"
+    "url" : "https://github.com/ignatiuschrisandy44-art/OracleApex.git",
+    "email" : "Ignatius_chrisandy@yahoo.com"
   },
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/ignatiuschrisandy44-art/OracleApex"
+    "url" : "https://github.com/ignatiuschrisandy44-art/OracleApex.git"
   },
   "oracle" : {
     "versions" : ["19.0.0", "21.0.0", "23.0.0", "26.0.0"],
